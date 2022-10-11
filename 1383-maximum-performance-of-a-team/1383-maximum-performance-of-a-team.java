@@ -12,7 +12,7 @@ class Solution {
         long ret = 0;
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         for(int i = 0; i < n; ++i) {
-            while(pq.size() >= k) speedSum -= pq.poll();
+            while(pq.size() >= k) speedSum -= pq.remove();
             
             pq.add(a[i][0]);
             speedSum += a[i][0];
