@@ -1,4 +1,6 @@
 class Solution {
+    int MOD = (int)1e9 + 7;
+    
     public int maxPerformance(int n, int[] speed, int[] efficiency, int k) {
         int[][] a = new int[n][2];
         for(int i = 0; i < n; ++i) {
@@ -19,6 +21,6 @@ class Solution {
             ret = Math.max(speedSum * a[i][1], ret);
         }
         
-        return (int)(ret % ((int)1e9 + 7));
+        return (int)(ret % MOD);
     }
 }
