@@ -1,14 +1,15 @@
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-        Map<Integer, Integer> map = new HashMap<>() {{
-            put(0, 0);
-        }};
+        int N = nums.length;
+        int[] psum = new int[N + 1];
+        for(int i = 1; i <= N; ++i) {
+            psum[i] = psum[i - 1] + nums[i - 1];
+        }
         
-        int sum = 0;
-        for(int i = 0; i < nums.length; ++i) {
-            sum += nums[i];
-            if(!map.containsKey(sum % k)) map.put(sum % k, i + 1);
-            else if(map.get(sum % k) < i) return true;
+        Set<Integer> set = new HashSet<>();
+        for(int i = 2; i <= N; ++i) {
+            set.add(psum[i - 2] % k);
+            if(set.contains(psum[i] % k)) return true;
         }
         
         return false;
