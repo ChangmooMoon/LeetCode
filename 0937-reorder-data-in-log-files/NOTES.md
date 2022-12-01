@@ -1,0 +1,2 @@
+- letter log 리스트, digit log 리스트 순으로 정렬
+- letter log list는 lexicographical sort
