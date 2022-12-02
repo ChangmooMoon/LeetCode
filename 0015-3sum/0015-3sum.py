@@ -16,11 +16,9 @@ class Solution:
                     R -= 1
                 else:
                     ret.append([nums[i], nums[L], nums[R]]) # 정답
-                    while L < R and nums[L] == nums[L + 1]: # 중복처리
-                        L += 1
-                    while L < R and nums[R] == nums[R - 1]:
-                        R -= 1
                     L += 1
-                    R -= 1
+                    while nums[L] == nums[L - 1] and L < R:
+                        L += 1
         return ret
 
+    # [-2 -2 0 2 2]
