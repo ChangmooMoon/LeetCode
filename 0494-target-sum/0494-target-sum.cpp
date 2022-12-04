@@ -6,7 +6,7 @@ public:
     
     int bf(int idx, int sum, vector<int>& nums, int target) {
         if(idx == nums.size()) {
-            return sum == target ? 1 : 0;
+            return sum == target;
         }
         
         return bf(idx + 1, sum + nums[idx], nums, target)
