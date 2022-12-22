@@ -1,7 +1,7 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
         M, N = len(grid), len(grid[0])
-        visited = [[False for i in range(N)] for j in range(M)]
+        visited = [[False for _ in range(N)] for _ in range(M)]
         ans = 0
         
         def bfs(r, c) -> int:
