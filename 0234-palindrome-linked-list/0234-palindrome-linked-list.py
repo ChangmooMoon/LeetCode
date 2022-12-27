@@ -3,21 +3,19 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        values = []
-        while head is not None:
-            values.append(head.val)
-            head = head.next
+        tmp = None
+        slow = fast = head
         
-        L, R = 0, len(values) - 1
-        while L <= R:
-            if values[L] != values[R]:
-                return False
-            L += 1
-            R -= 1
+        while fast and fast.next:
+            fast = fast.next.next
+            tmp, tmp.next, slow = slow, tmp, slow.next
+            
+        if fast:
+            slow = slow.next
+            
+        while tmp and tmp.val == slow.val:
+            slow, tmp = slow.next, tmp.next
+        return not tmp
         
-        return True
-            
-            
