@@ -5,13 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
+    ret = {
+        0: [],
+        1: [TreeNode(0)]
+    }
+    
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
-        if n == 0:
-            return []
-        elif n == 1:
-            return [TreeNode(0)]
-        
-        else:  
+        if n not in Solution.ret:        
             ans = []
             for left_n in range(n):
                 right_n = n - 1 - left_n
@@ -22,7 +22,9 @@ class Solution:
                         tree.left = i
                         tree.right = j
                         ans.append(tree)
-            return ans
+            Solution.ret[n] = ans
+        
+        return Solution.ret[n]
             
         
         
