@@ -7,7 +7,13 @@ class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head and head.next:
             p = head.next
-            head.next = self.swapPairs(head.next.next)
+            head.next = self.swapPairs(p.next)
+            
             p.next = head
             return p
+        
         return head
+    
+'''
+1. 2개씩 앞뒤노드를 바꾼다. 노드 갯수 0~100
+'''
