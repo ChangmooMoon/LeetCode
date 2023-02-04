@@ -2,10 +2,10 @@ class Solution:
     def longestSubsequence(self, s: str, k: int) -> int:
         one, result, digit = 0, 0, 1
         
-        for i in reversed(range(len(s))):
+        for ch in s[::-1]:
             if result + digit > k:
                 break
-            elif s[i] == '1':
+            elif ch == '1':
                 one += 1
                 result += digit
             digit <<= 1
