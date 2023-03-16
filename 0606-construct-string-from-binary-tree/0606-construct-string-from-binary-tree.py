@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-ans = ""
 class Solution:
     def tree2str(self, root: Optional[TreeNode]) -> str:
         ans = str(root.val)
