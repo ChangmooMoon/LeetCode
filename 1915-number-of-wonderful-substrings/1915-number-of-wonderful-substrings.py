@@ -1,6 +1,7 @@
 class Solution:
     def wonderfulSubstrings(self, word: str) -> int:
-        counter = {0: 1}
+        counter = defaultdict(int)
+        counter[0] = 1
         ans = 0
         bit = 0
         
