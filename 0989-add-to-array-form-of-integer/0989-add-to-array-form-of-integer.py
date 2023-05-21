@@ -9,5 +9,4 @@ class Solution:
             curr += n * digit
             digit *= 10
         
-        str(curr + k)
         return map(int, list(str(curr + k)))
