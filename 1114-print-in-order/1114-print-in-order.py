@@ -2,21 +2,21 @@ from threading import *
 
 class Foo:
     def __init__(self):
-        self.lock = [Lock(), Lock()]
-        for _ in self.lock:
-            _.acquire()
+        self.lock1, self.lock2 = Lock(), Lock()
+        self.lock1.acquire()
+        self.lock2.acquire()
 
     def first(self, printFirst: 'Callable[[], None]') -> None:
         printFirst()
-        self.lock[0].release()
+        self.lock1.release()
 
 
     def second(self, printSecond: 'Callable[[], None]') -> None:
-        with self.lock[0]:
+        with self.lock1:
             printSecond()
-            self.lock[1].release()
+            self.lock2.release()
 
 
     def third(self, printThird: 'Callable[[], None]') -> None:
-        with self.lock[1]:
+        with self.lock2:
             printThird()
