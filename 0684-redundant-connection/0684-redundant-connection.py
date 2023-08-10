@@ -18,13 +18,6 @@ class Solution(object):
             if Find(p, u) == Find(p, v):
                 return [u, v]
             Union(p, u, v)
-                
-        
-            
-            
-        
-        
-        
         
 """
 :type edges: List[List[int]]
