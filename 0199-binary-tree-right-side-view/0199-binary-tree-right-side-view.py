@@ -12,13 +12,14 @@ class Solution:
         return ans
 
     def dfs(self, node, depth):
-        if node:
-            if len(ans) == depth:
-                ans.append(node.val)
-                
-            self.dfs(node.right, depth + 1) # 오른쪽부터
-            self.dfs(node.left, depth + 1)
-        return
+        if not node:
+            return
+        
+        if len(ans) == depth:
+            ans.append(node.val)
+
+        self.dfs(node.right, depth + 1) # 오른쪽부터
+        self.dfs(node.left, depth + 1)
 
 """
 1. root + right side node return, array tree
