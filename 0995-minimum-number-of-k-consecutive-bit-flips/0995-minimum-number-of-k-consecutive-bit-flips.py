@@ -7,10 +7,10 @@ class Solution:
         flag = 0 # off, on
         
         for i in range(N): 
-            if a[i] == 1: # if bit is 1, 
+            if a[i]: # if bit is 1, 
                 flag ^= 1
             
-            if nums[i] ^ flag == 0: # if either one is 0
+            if not nums[i] ^ flag: # if either one is 0
                 ret += 1
                 flag ^= 1
                 
