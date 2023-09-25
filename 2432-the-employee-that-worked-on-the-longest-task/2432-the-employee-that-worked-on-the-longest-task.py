@@ -2,8 +2,6 @@ class Solution:
     def hardestWorker(self, n: int, logs: List[List[int]]) -> int:
         logs.sort(key=lambda x: x[1])
         
-        print(logs)
-        
         ans_id, max_t = logs[0]
         for i in range(1, len(logs)):
             t_id, curr_time = logs[i]
