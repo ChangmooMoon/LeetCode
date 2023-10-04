@@ -1,6 +1,6 @@
 class Solution:
     def isPossible(self, nums: List[int]) -> bool:
-        a, b, c = Counter(), Counter(), Counter()
+        a, b, c = Counter(), Counter(), Counter() # a(len 1) -> b(len 2) -> c(len more than 3)
         
         for el in nums:
             if a[el - 1]:
