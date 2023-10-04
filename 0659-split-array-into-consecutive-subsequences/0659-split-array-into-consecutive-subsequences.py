@@ -6,19 +6,14 @@ class Solution:
             if a[el - 1]:
                 a[el - 1] -= 1
                 b[el] += 1
-                continue
-                
-            if b[el - 1]:
+            elif b[el - 1]:
                 b[el - 1] -= 1
                 c[el] += 1
-                continue
-                
-            if c[el - 1]:
+            elif c[el - 1]:
                 c[el - 1] -= 1
                 c[el] += 1
-                continue
-                
-            a[el] += 1
+            else:   
+                a[el] += 1
                 
         return a.total() == 0 and b.total() == 0
 """
