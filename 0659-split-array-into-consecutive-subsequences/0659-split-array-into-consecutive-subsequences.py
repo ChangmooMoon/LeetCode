@@ -15,7 +15,7 @@ class Solution:
             else:   
                 a[el] += 1
                 
-        return a.total() == 0 and b.total() == 0
+        return not (a.total() or b.total())
 """
 1. n 10000, less than O(n^2) nlogn, n
 """
