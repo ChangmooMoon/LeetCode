@@ -14,15 +14,7 @@ class Solution:
                 return False
             
         return True
-                
-            
-                
-            
-        
-        
-        
-        
-        
+                  
 """
 1. n 1000, A L P
 - fewer than 2 day total
