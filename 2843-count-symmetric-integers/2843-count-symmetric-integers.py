@@ -5,13 +5,10 @@ class Solution:
             if len(n_str) % 2 == 1:
                 return False
             
-            half_sum = 0
-            for i in range(0, len(n_str)): # 5 -> 0, 1, 2
-                if i < len(n_str) // 2:
-                    half_sum += int(n_str[i])
-                else:
-                    half_sum -= int(n_str[i])
-            return half_sum == 0
+            res = 0
+            for i in range(0, len(n_str) // 2): # 5 -> 0, 1, 2
+                res += int(n_str[i]) - int(n_str[i + len(n_str) // 2])
+            return res == 0
                     
         cnt = 0
         for num in range(low, high + 1):
