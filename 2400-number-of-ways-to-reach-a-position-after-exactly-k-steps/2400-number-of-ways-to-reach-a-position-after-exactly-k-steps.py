@@ -1,12 +1,10 @@
 class Solution:
     def numberOfWays(self, startPos: int, endPos: int, k: int) -> int:
-        restStep = k - endPos + startPos
+        restStep = k - abs(endPos - startPos)
         if restStep < 0 or restStep & 1:
             return 0
         
-        left = restStep // 2
-        right = k - left
-        
+        left, right = restStep // 2, k - restStep // 2
         return self.nCk(left + right, min(left, right))
     
     def nCk(self, n, k):
