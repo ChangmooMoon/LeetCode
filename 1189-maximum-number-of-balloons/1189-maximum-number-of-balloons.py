@@ -1,4 +1,4 @@
 class Solution:
-  def maxNumberOfBalloons(self, text: str) -> int:
-    count = collections.Counter(text)
-    return min(count['b'], count['a'], count['l'] // 2, count['o'] // 2, count['n'])
+    def maxNumberOfBalloons(self, text: str) -> int:
+        counter = Counter(text)
+        return min(counter['b'], counter['a'], counter['l']//2, counter['o']//2, counter['n'])
