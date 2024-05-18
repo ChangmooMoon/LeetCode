@@ -1,5 +1,3 @@
-from heapq import heappush, heappop
-
 class Solution:
     def maxSumDivThree(self, nums: List[int]) -> int:
         d = [0, float('-inf'), float('-inf')]
