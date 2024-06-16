@@ -1,26 +1,16 @@
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        if n == 1 and not trust:
-            return 1
-        
-        if not trust:
+        if len(trust) < n - 1:
             return -1
         
-        ind = [set() for _ in range(n + 1)]
-        for t in trust:
-            a, b = t[0], t[1]
-            ind[b].add(a)
+        ind, outd = [0] * (n + 1), [0] * (n + 1)
+        
+        for st, en in trust:
+            ind[en] +=  1
+            outd[st] += 1
             
-        judge_cand = -1
-        for idx, s in enumerate(ind):
-            if len(s) == n - 1:
-                judge_cand = idx
+        for i in range(1, n + 1):
+            if ind[i] == n - 1 and not outd[i]:
+                return i
         
-        if judge_cand == -1:
-            return -1
-
-        for s in ind:
-            if judge_cand in s:
-                return -1
-        
-        return judge_cand
+        return -1
