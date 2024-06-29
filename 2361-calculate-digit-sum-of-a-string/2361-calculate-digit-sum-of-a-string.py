@@ -4,9 +4,8 @@ class Solution:
             res = ""
             for i in range(0, len(s), k):
                 digit = 0
-                for j in range(i, i + k):
-                    if len(s) > j:
-                        digit += int(s[j])
+                for d in s[i:i+k]:
+                    digit += int(d)
                 res += str(digit)
             s = res
 
