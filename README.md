@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ChangmooMoon/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ChangmooMoon/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
