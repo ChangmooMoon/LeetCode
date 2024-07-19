@@ -2,6 +2,7 @@ class Solution:
     def stoneGameVII(self, stones: List[int]) -> int:
         d = [[-1] * len(stones) for _ in range(len(stones))]
         
+        @cache
         def solve(i, j, rest):
             if i == j:
                 return 0
