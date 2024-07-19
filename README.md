@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
 | [0485-max-consecutive-ones](https://github.com/ChangmooMoon/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
 ## Dynamic Programming
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
