@@ -1,6 +1,6 @@
 class Solution:
     def stoneGameVII(self, stones: List[int]) -> int:
-        d = [[-1] * len(stones) for _ in range(len(stones))]
+        d = [[-1] * len(stones) for _ in range(len(stones))] #d[i][j]: score diff when pick i, j stone
         
         def solve(i, j, rest):
             if i == j:
