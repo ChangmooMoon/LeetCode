@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ChangmooMoon/LeetCode/tree/master/0013-roman-to-integer) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ChangmooMoon/LeetCode/tree/master/0013-roman-to-integer) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ChangmooMoon/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
 ## Dynamic Programming
