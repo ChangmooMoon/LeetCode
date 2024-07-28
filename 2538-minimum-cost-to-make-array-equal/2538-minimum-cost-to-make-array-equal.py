@@ -10,14 +10,12 @@ class Solution:
 
         lo, hi = min(nums), max(nums)
         while lo < hi:
-            mid1 = lo + (hi - lo) // 3
-            mid2 = hi - (hi - lo) // 3
-            cost1 = getCost(mid1)
-            cost2 = getCost(mid2)
+            mid = (lo + hi) // 2
+            cost1 = getCost(mid)
+            cost2 = getCost(mid + 1)
             if cost1 < cost2:
-                hi = mid2 - 1
+                hi = mid
             else:
-                lo = mid1 + 1
+                lo = mid + 1
 
         return getCost(lo)
-            
