@@ -17,15 +17,10 @@ class Solution:
                 list2 = list2.next
             curr = curr.next
         
-        while list1:
-            curr.next = ListNode(list1.val)
-            list1 = list1.next
-            curr = curr.next
-        
-        while list2:
-            curr.next = ListNode(list2.val)
-            list2 = list2.next
-            curr = curr.next
+        if not list1:
+            curr.next = list2
+        else:
+            curr.next = list1
         
         return ret.next
 
