@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ChangmooMoon/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ChangmooMoon/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ChangmooMoon/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1008-binary-tree-cameras](https://github.com/ChangmooMoon/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ChangmooMoon/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
