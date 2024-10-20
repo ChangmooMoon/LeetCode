@@ -1,18 +1,16 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        st = deque()
-        pair = {
+        st = []
+        paren = {
             ')':'(',
             '}':'{',
             ']':'['
         }
         
         for ch in s:
-            if ch not in pair:
+            if ch not in paren:
                 st.append(ch)
-            elif not st or pair[ch] is not st.pop():
-                    return False
+            elif not(st and paren[ch] == st.pop()):
+                return False
         
-        return len(st) is 0
-                    
-            
+        return len(st) == 0
