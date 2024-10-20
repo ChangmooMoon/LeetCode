@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ChangmooMoon/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ChangmooMoon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0857-positions-of-large-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ChangmooMoon/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ChangmooMoon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
