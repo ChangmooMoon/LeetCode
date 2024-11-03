@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ChangmooMoon/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ChangmooMoon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ChangmooMoon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Linked List
 |  |
