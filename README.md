@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ChangmooMoon/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Union Find
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/ChangmooMoon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/ChangmooMoon/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ChangmooMoon/LeetCode/tree/master/0812-rotate-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 <!---LeetCode Topics End-->
