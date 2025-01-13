@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ChangmooMoon/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ChangmooMoon/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ChangmooMoon/LeetCode/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/ChangmooMoon/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2700-substring-xor-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2700-substring-xor-queries) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ChangmooMoon/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/ChangmooMoon/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [2700-substring-xor-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2700-substring-xor-queries) |
 ## Memoization
 |  |
