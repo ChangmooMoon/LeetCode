@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ChangmooMoon/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/ChangmooMoon/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ChangmooMoon/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ChangmooMoon/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ChangmooMoon/LeetCode/tree/master/0948-sort-an-array) |
 ## Geometry
 |  |
