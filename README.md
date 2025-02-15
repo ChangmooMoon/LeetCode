@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/ChangmooMoon/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1532-reformat-the-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1532-reformat-the-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ChangmooMoon/LeetCode/tree/master/2115-number-of-unique-good-subsequences) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2465-shifting-letters-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2700-substring-xor-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2700-substring-xor-queries) |
 ## Two Pointers
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ChangmooMoon/LeetCode/tree/master/0948-sort-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Geometry
 |  |
 | ------- |
