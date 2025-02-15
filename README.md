@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ChangmooMoon/LeetCode/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ChangmooMoon/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1532-reformat-the-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1532-reformat-the-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ChangmooMoon/LeetCode/tree/master/2115-number-of-unique-good-subsequences) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
