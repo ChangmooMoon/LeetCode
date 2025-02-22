@@ -4,7 +4,7 @@ class Solution:
         
         z = [0] * N
         l, r = 0, 0  # init p, score
-        ans = 0
+        ans = N
 
         for i in range(1, N):
             if i <= r:
@@ -17,7 +17,7 @@ class Solution:
                 l, r = i, i + z[i] - 1
             ans += z[i]
         
-        return ans + N
+        return ans
 
 '''
 babab
