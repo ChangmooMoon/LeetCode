@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ChangmooMoon/LeetCode/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ChangmooMoon/LeetCode/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1532-reformat-the-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1532-reformat-the-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [1351-replace-the-substring-for-balanced-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 <!---LeetCode Topics End-->
