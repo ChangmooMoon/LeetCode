@@ -181,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChangmooMoon/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ChangmooMoon/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1008-binary-tree-cameras](https://github.com/ChangmooMoon/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChangmooMoon/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ChangmooMoon/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ChangmooMoon/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1008-binary-tree-cameras](https://github.com/ChangmooMoon/LeetCode/tree/master/1008-binary-tree-cameras) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChangmooMoon/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ChangmooMoon/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChangmooMoon/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ChangmooMoon/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ChangmooMoon/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1008-binary-tree-cameras](https://github.com/ChangmooMoon/LeetCode/tree/master/1008-binary-tree-cameras) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
