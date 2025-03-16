@@ -12,9 +12,10 @@ class Solution:
         q = deque([(root, 1)])
         while q:
             node, dep = q.popleft()
-            if not(node.left or node.right):
+            if not node.left and not node.right:
                 return dep
-            if node.left:
-                q.append((node.left, dep+1))
-            if node.right:
-                q.append((node.right, dep+1))
+            
+            for next_node in [node.left, node.right]:
+                if next_node:
+                    q.append((next_node, dep+1))
+            
