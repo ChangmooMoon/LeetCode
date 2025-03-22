@@ -10,9 +10,6 @@ class Solution:
             curr, time, prob = q.popleft()
             if curr == target:
                 return prob if time == t or len(tree[curr]) == 0 else 0
-                if time == t or len(tree[curr]) == 0:
-                    return prob
-                return 0
             if time == t:
                 continue
                 
