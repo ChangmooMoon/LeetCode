@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ChangmooMoon/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/ChangmooMoon/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ChangmooMoon/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Math
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/ChangmooMoon/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ChangmooMoon/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1008-binary-tree-cameras](https://github.com/ChangmooMoon/LeetCode/tree/master/1008-binary-tree-cameras) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ChangmooMoon/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/ChangmooMoon/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChangmooMoon/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/ChangmooMoon/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChangmooMoon/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ChangmooMoon/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/ChangmooMoon/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ChangmooMoon/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
