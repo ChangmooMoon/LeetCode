@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/ChangmooMoon/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/ChangmooMoon/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ChangmooMoon/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0523-continuous-subarray-sum](https://github.com/ChangmooMoon/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1014-k-closest-points-to-origin](https://github.com/ChangmooMoon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ChangmooMoon/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [2700-substring-xor-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2700-substring-xor-queries) |
 ## Memoization
