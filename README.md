@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ChangmooMoon/LeetCode/tree/master/2115-number-of-unique-good-subsequences) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2465-shifting-letters-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Sorting
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ChangmooMoon/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/ChangmooMoon/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2465-shifting-letters-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Topological Sort
 |  |
 | ------- |
