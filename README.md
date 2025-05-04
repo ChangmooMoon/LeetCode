@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ChangmooMoon/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ChangmooMoon/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ChangmooMoon/LeetCode/tree/master/0038-count-and-say) |
+| [0214-shortest-palindrome](https://github.com/ChangmooMoon/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/ChangmooMoon/LeetCode/tree/master/0812-rotate-string) |
 | [0857-positions-of-large-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/0857-positions-of-large-groups) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ChangmooMoon/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Doubly-Linked List
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ChangmooMoon/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/ChangmooMoon/LeetCode/tree/master/0812-rotate-string) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Combinatorics
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ChangmooMoon/LeetCode/tree/master/0214-shortest-palindrome) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
