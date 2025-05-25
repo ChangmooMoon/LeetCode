@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2048-build-array-from-permutation](https://github.com/ChangmooMoon/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChangmooMoon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ChangmooMoon/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2465-shifting-letters-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChangmooMoon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Sorting
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChangmooMoon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ChangmooMoon/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
