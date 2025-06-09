@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ChangmooMoon/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/ChangmooMoon/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/ChangmooMoon/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0941-sort-array-by-parity](https://github.com/ChangmooMoon/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
