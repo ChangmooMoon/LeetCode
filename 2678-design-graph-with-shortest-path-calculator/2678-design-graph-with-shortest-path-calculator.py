@@ -17,7 +17,7 @@ class Graph:
         d = [float('inf')] * self.n
         d[node1] = 0
         
-        h = [(0, node1)] # st, w
+        h = [(0, node1)] # w, st 비용먼저
         while h:
             curr_w, curr = heapq.heappop(h)
             if curr == node2:
