@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/ChangmooMoon/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ChangmooMoon/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1493-frog-position-after-t-seconds](https://github.com/ChangmooMoon/LeetCode/tree/master/1493-frog-position-after-t-seconds) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ChangmooMoon/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/ChangmooMoon/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/ChangmooMoon/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Hash Function
 |  |
 | ------- |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ChangmooMoon/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/ChangmooMoon/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
