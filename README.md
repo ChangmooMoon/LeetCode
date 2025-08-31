@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ChangmooMoon/LeetCode/tree/master/0051-n-queens) |
 | [0119-pascals-triangle-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ChangmooMoon/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ChangmooMoon/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ChangmooMoon/LeetCode/tree/master/0077-combinations) |
 ## String Matching
 |  |
