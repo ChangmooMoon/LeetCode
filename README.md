@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
+| [0821-bricks-falling-when-hit](https://github.com/ChangmooMoon/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0932-monotonic-array](https://github.com/ChangmooMoon/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/ChangmooMoon/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/ChangmooMoon/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0821-bricks-falling-when-hit](https://github.com/ChangmooMoon/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ChangmooMoon/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
+| [0821-bricks-falling-when-hit](https://github.com/ChangmooMoon/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0945-snakes-and-ladders](https://github.com/ChangmooMoon/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChangmooMoon/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1324-where-will-the-ball-fall](https://github.com/ChangmooMoon/LeetCode/tree/master/1324-where-will-the-ball-fall) |
