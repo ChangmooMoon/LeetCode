@@ -29,11 +29,11 @@ class Solution:
             dfs(0, c)
         
         for i in range(len(hits)-1, -1, -1):
-            r, c = hits[i]
             if not is_brick[i]:
                 ans.append(0)
                 continue
             
+            r, c = hits[i]
             grid[r][c] = 1
             res = 0
             if r == 0:
