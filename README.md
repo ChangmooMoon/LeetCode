@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2700-substring-xor-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2700-substring-xor-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ChangmooMoon/LeetCode/tree/master/2846-robot-collisions) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChangmooMoon/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Hash Table
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ChangmooMoon/LeetCode/tree/master/2115-number-of-unique-good-subsequences) |
+| [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChangmooMoon/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Game Theory
 |  |
