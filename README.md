@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
+| [1848-sum-of-unique-elements](https://github.com/ChangmooMoon/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2048-build-array-from-permutation](https://github.com/ChangmooMoon/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChangmooMoon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1848-sum-of-unique-elements](https://github.com/ChangmooMoon/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/ChangmooMoon/LeetCode/tree/master/0948-sort-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/ChangmooMoon/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Geometry
 |  |
