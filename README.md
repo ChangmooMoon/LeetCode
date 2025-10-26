@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/ChangmooMoon/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/ChangmooMoon/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChangmooMoon/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1532-reformat-the-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ChangmooMoon/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChangmooMoon/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/ChangmooMoon/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/ChangmooMoon/LeetCode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/ChangmooMoon/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChangmooMoon/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Topological Sort
 |  |
