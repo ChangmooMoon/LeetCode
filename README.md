@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChangmooMoon/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1532-reformat-the-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1532-reformat-the-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/ChangmooMoon/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ChangmooMoon/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/ChangmooMoon/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1848-sum-of-unique-elements](https://github.com/ChangmooMoon/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ChangmooMoon/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/ChangmooMoon/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/ChangmooMoon/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ChangmooMoon/LeetCode/tree/master/2115-number-of-unique-good-subsequences) |
@@ -388,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/ChangmooMoon/LeetCode/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Enumeration
+|  |
+| ------- |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/ChangmooMoon/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 <!---LeetCode Topics End-->
