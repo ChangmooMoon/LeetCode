@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ChangmooMoon/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2465-shifting-letters-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2678-number-of-senior-citizens](https://github.com/ChangmooMoon/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2700-substring-xor-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2700-substring-xor-queries) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/ChangmooMoon/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2678-number-of-senior-citizens](https://github.com/ChangmooMoon/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2700-substring-xor-queries](https://github.com/ChangmooMoon/LeetCode/tree/master/2700-substring-xor-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ChangmooMoon/LeetCode/tree/master/2846-robot-collisions) |
