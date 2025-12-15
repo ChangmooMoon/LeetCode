@@ -1,7 +1,7 @@
 class Solution:
     def longestCommonSubpath(self, n: int, paths: List[List[int]]) -> int:
-        MOD1, MOD2 = 10**11 + 19, 10**11 + 7
-        BASE1, BASE2 = 911382323, 972663749
+        MOD1, MOD2 = int(1e9 + 7), int(1e9 + 9)
+        BASE1, BASE2 = 13, 17
 
         min_len = min(len(p) for p in paths)
 
@@ -22,8 +22,9 @@ class Solution:
                 curr_hashes = set()
 
                 for i in range(L):
-                    h1 = (h1 * BASE1 + (path[i] + 1)) % MOD1
-                    h2 = (h2 * BASE2 + (path[i] + 1)) % MOD2
+                    val = path[i] + 1
+                    h1 = (h1 * BASE1 + val) % MOD1
+                    h2 = (h2 * BASE2 + val) % MOD2
                 curr_hashes.add((h1, h2))
 
                 for i in range(L, len(path)):
