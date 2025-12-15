@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ChangmooMoon/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ChangmooMoon/LeetCode/tree/master/2846-robot-collisions) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChangmooMoon/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Hash Table
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChangmooMoon/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ChangmooMoon/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Union Find
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ChangmooMoon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/ChangmooMoon/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Dynamic Programming
 |  |
