@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
 | [1848-sum-of-unique-elements](https://github.com/ChangmooMoon/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1923-longest-common-subpath](https://github.com/ChangmooMoon/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2048-build-array-from-permutation](https://github.com/ChangmooMoon/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChangmooMoon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ChangmooMoon/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/ChangmooMoon/LeetCode/tree/master/1550-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1923-longest-common-subpath](https://github.com/ChangmooMoon/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ChangmooMoon/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChangmooMoon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ChangmooMoon/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/ChangmooMoon/LeetCode/tree/master/0817-design-hashmap) |
+| [1923-longest-common-subpath](https://github.com/ChangmooMoon/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Doubly-Linked List
 |  |
@@ -373,10 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ChangmooMoon/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1923-longest-common-subpath](https://github.com/ChangmooMoon/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
 | ------- |
+| [1923-longest-common-subpath](https://github.com/ChangmooMoon/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2326-sum-of-scores-of-built-strings](https://github.com/ChangmooMoon/LeetCode/tree/master/2326-sum-of-scores-of-built-strings) |
 ## Sliding Window
 |  |
