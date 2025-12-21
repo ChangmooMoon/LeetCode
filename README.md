@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/ChangmooMoon/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1310-watering-plants](https://github.com/ChangmooMoon/LeetCode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/ChangmooMoon/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [2048-build-array-from-permutation](https://github.com/ChangmooMoon/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ChangmooMoon/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/ChangmooMoon/LeetCode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/ChangmooMoon/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/ChangmooMoon/LeetCode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChangmooMoon/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/ChangmooMoon/LeetCode/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ChangmooMoon/LeetCode/tree/master/0048-rotate-image) |
+| [0566-reshape-the-matrix](https://github.com/ChangmooMoon/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0821-bricks-falling-when-hit](https://github.com/ChangmooMoon/LeetCode/tree/master/0821-bricks-falling-when-hit) |
 | [0945-snakes-and-ladders](https://github.com/ChangmooMoon/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ChangmooMoon/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
