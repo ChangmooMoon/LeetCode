@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/ChangmooMoon/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1923-longest-common-subpath](https://github.com/ChangmooMoon/LeetCode/tree/master/1923-longest-common-subpath) |
 | [2048-build-array-from-permutation](https://github.com/ChangmooMoon/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChangmooMoon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ChangmooMoon/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/ChangmooMoon/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2465-shifting-letters-ii](https://github.com/ChangmooMoon/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ChangmooMoon/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/ChangmooMoon/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChangmooMoon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ChangmooMoon/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 ## Dynamic Programming
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ChangmooMoon/LeetCode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ChangmooMoon/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1808-stone-game-vii](https://github.com/ChangmooMoon/LeetCode/tree/master/1808-stone-game-vii) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ChangmooMoon/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2115-number-of-unique-good-subsequences](https://github.com/ChangmooMoon/LeetCode/tree/master/2115-number-of-unique-good-subsequences) |
 | [3525-maximum-energy-boost-from-two-drinks](https://github.com/ChangmooMoon/LeetCode/tree/master/3525-maximum-energy-boost-from-two-drinks) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/ChangmooMoon/LeetCode/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
